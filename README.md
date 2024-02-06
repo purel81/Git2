@@ -1,2 +1,2 @@
 # Git2
- GIT2
+ GIT 2
