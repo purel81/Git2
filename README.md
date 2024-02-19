@@ -1,2 +1,2 @@
-# Git2
+# Git 2
  GIT 2
